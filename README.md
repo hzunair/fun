@@ -1,3 +1,3 @@
 # fun
 
-test
+Repo made just for fun!
